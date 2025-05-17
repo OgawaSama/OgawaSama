@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OgawaSama
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ogawasamaa on twt
 
