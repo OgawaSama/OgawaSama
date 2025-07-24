@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @OgawaSama
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ogawasamaa on twt
+- 👋 Hi, I’m Ogawa!
+- I like to program mostly with C, and sometimes try C++.
 
 <!---
 OgawaSama/OgawaSama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
